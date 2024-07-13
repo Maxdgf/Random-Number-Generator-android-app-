@@ -1,6 +1,6 @@
 # Random-Number-Generator-android-app-
-Мобильное приложение на андроид по генерации случайных чисел чисел на Kotlin
+A mobile application for android for generating random numbers of numbers
 ![](screen.jpg)
 
 
-Это приложение написано на встроенных функциях языка Kotlin, никакие сторонние библиотеки не подключались!
+This application is written using the built-in functions of the Kotlin language, no third-party libraries have been connected!
